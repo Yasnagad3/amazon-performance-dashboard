@@ -1,57 +1,70 @@
 # 📊 Amazon Performance Dashboard
 
+![Dashboard Preview](images/dashboard-preview.png)
+
 ## 🧾 Overview
-An interactive Power BI dashboard that analyzes Amazon’s sales performance, customer demographics, and regional purchasing trends. Built to provide actionable insights for strategic decision-making in e-commerce.
+This project presents an **interactive Power BI dashboard** analyzing **Amazon’s sales performance**, customer demographics, and regional purchasing trends. It transforms raw sales data into **business insights** for marketing, planning, and strategic decisions.
 
 ---
 
-## 🚀 Features
-- 📈 Sales Trend Analysis (monthly/yearly)
-- 👥 Customer Demographics (age, gender, location)
-- 🛍️ Top Categories by Revenue
-- 🌍 Regional Sales Distribution (Map View)
-- 📦 Product Performance KPIs
+## 🚀 Key Features
+
+- 🧮 Monthly and yearly **sales trends**
+- 🧍 Customer segmentation by **age, gender, region**
+- 📦 Best-selling **product categories**
+- 🌍 Geo-based **regional performance**
+- 📈 Key Performance Indicators: **Revenue**, **Returns**, **Orders**, **Avg Order Value**
 
 ---
 
 ## 📁 File Structure
-📂 amazon-performance-dashboard
-├── Amazon_Dashboard.pbix # Main Power BI file
-├── README.md # Project overview
-├── .gitignore # Files to ignore
-└── LICENSE # MIT License
 
-
----
-
-## 🛠️ Tools & Technologies
-- **Power BI Desktop**
-- **DAX** (Data Analysis Expressions)
-- **Microsoft Excel** (for preprocessing)
-- **GitHub**
+| File/Folder | Description |
+|-------------|-------------|
+| `Amazon_Dashboard.pbix` | Power BI report file |
+| `images/` | Dashboard preview image |
+| `README.md` | Project documentation |
+| `.gitignore` | Git ignore rules |
+| `LICENSE` | MIT License |
 
 ---
 
 ## 📸 Dashboard Preview
-> *(Add screenshot here of your Power BI report cover page or key visuals)*
 
+> *(Upload an image in `images/dashboard-preview.png` to see it here)*  
 ![Dashboard Preview](images/dashboard-preview.png)
 
 ---
 
+## 🛠 Tools Used
+
+- **Power BI Desktop**
+- **DAX** for calculated measures
+- **Excel** for initial data preparation
+- **Power Query**
+- **Git & GitHub**
+
+---
+
 ## 📈 Insights Example
-> ✅ 60% of sales came from 3 major regions  
-> ✅ Electronics and Apparel are top-performing categories  
-> ✅ Peak sales observed during festive seasons (Nov-Dec)
+
+- 60% of revenue came from 3 key regions
+- Electronics and Apparel dominated sales
+- Peak sales in November–December period
+- Return rate highest in Apparel segment
 
 ---
 
-## 🧠 Learnings
-- Mastered Power BI DAX functions
-- Built custom visuals using slicers, cards, and geo maps
-- Improved storytelling with data visuals
+## 🔍 Skills Applied
+
+- Data modeling with Power BI
+- DAX formulas for KPIs
+- Building interactive dashboards
+- Storytelling with data
+- Git version control
 
 ---
 
-## 🪪 License
-MIT License – feel free to use and adapt with credit.
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
